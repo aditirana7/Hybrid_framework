@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-06T23:15:03 PDT" name="Default suite" finished-at="2024-09-06T23:15:38 PDT" duration-ms="35068">
+    <groups>
+    </groups>
+    <test started-at="2024-09-06T23:15:03 PDT" name="Default test" finished-at="2024-09-06T23:15:38 PDT" duration-ms="35068">
+      <class name="com.easy_cal_test_cases.pdemo2">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.easy_cal_test_cases.pdemo2@3568f9d2]" started-at="2024-09-06T23:15:03 PDT" name="SetUp" finished-at="2024-09-06T23:15:03 PDT" duration-ms="632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method is-config="true" signature="BrowserTest()[pri:0, instance:com.easy_cal_test_cases.pdemo2@3568f9d2]" started-at="2024-09-06T23:15:03 PDT" name="BrowserTest" finished-at="2024-09-06T23:15:24 PDT" duration-ms="20979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTest -->
+        <test-method signature="pnrApp()[pri:0, instance:com.easy_cal_test_cases.pdemo2@3568f9d2]" started-at="2024-09-06T23:15:24 PDT" name="pnrApp" finished-at="2024-09-06T23:15:37 PDT" duration-ms="12590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pnrApp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.easy_cal_test_cases.pdemo2@3568f9d2]" started-at="2024-09-06T23:15:37 PDT" name="tearDown" finished-at="2024-09-06T23:15:38 PDT" duration-ms="1369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.easy_cal_test_cases.pdemo2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
